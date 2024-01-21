@@ -1,0 +1,1 @@
+This project is based on Microservice based synchronous architecture, with the Quiz-service and Question-service independently functioning and communicating with each other with the help of Service Registry (Eureka Server), Feign Client and API Gateway.
